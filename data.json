@@ -1,0 +1,28 @@
+{
+  "customers": [
+    {
+      "id": "1",
+      "name": "Sunil Sandhu",
+      "email": "hello@sunilsandhu.com",
+      "age": 31
+    },
+    {
+      "id": "2",
+      "name": "Jim Doe",
+      "email": "hello@jimdoe.com",
+      "age": 20
+    },
+    {
+      "id": "3",
+      "name": "Melanie Smellanie",
+      "email": "mel18@gmail.com.com",
+      "age": 25
+    },
+    {
+      "name": "Ilaria",
+      "email": "ila@ila.com",
+      "age": 28,
+      "id": "SnAXz2W"
+    }
+  ]
+}
